@@ -20,37 +20,30 @@ WHen the program is called the bamazonManager file will prompted the user with 5
 
 ### Customer Experience:
 Step 1: Load Products
-
-ss1
-ss2
-Step 2: Pick an item 
+![Open Folder](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(44).png)
+![Initialize Customer Portal](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(45).png)
+Step 2: Pick an item
+![Pick an Item](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(46).png) 
 Step 3: Enter the amount
+![Enter Amount](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(47).png)
 Step 4: Confirmation or rejection- start over 
+![Confirm](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(48).png)
 
 
 ### Manager Experience 
-Step 1: Make a Choice
+Step 1: Initialize and Make a Choice
+![Initialize](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(52).png)
+![Make a Choice](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(53).png)
 Step 2: Answer any prompts 
+![Prompt Example](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(55).png)
 Step 3: Reap the rewards
 View all Products: 
-SS
-Add Products: 
-SS
+![View All Display](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(54).png)
+Add Inventory: 
+![Add Inventory](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(56).png)
 
 #### note that not all of the function in the manager experience file are complete.  
-type in a command. They can be any of the following: 
-start, help, concert-this , spotify-this-song , movie-this , do-what-it-says 
-
-See images below: 
-concert-this command 
-![CONCERTCOMMAND] (https://github.com/lmd808/liri/blob/master/images/concertcommand.png)
-spotify-this-song command 
-![SPOTIFYCOMMAND] (https://github.com/lmd808/liri/blob/master/images/spotifycommand.png)
-movie-this command 
-![MOVIECOMMAND] (https://github.com/lmd808/liri/blob/master/images/moviethis.png)
-do-what-it-says command
-![DOWHATCOMMAND] (https://github.com/lmd808/liri/blob/master/images/dowhatcommand.png)
-
+## Link to Live version
 https://lmd808.github.io/bamazon/
 
 ## Link to Repo: 
