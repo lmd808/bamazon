@@ -1,6 +1,6 @@
 # bamazon
 Better than Amazon
-# Problem 
+# Why? 
 Bamazon allows customers and managers(almost there) to interact with a store. Customers can search and buy products which are saved in a database. If the stock is too low to fullfil their order then the order they will recieve an alert and will not be able to order said item. 
 
 Manager will be able to see all products (done), add inventory(done), view low stock(under construction), and add products(under construction). 
@@ -20,10 +20,17 @@ WHen the program is called the bamazonManager file will prompted the user with 5
 
 ### Customer Experience:
 Step 1: Load Products
+<<<<<<< HEAD
 ![Open Folder](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(44).png)
 ![Initialize Customer Portal](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(45).png)
 Step 2: Pick an item
 ![Pick an Item](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(46).png) 
+=======
+
+
+ss2
+Step 2: Pick an item 
+>>>>>>> b826da430f339003ec46085372c7f61a42812b09
 Step 3: Enter the amount
 ![Enter Amount](https://github.com/lmd808/bamazon/blob/master/images/Screenshot%20(47).png)
 Step 4: Confirmation or rejection- start over 
