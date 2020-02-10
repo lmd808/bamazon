@@ -57,7 +57,7 @@ WHen the program is called the bamazonManager file will prompted the user with 5
 
 #### note that not all of the function in the manager experience file are complete.  
 ## Link to Repo: 
-https://github.com/lmd808/bamazon 
+[Repo](https://github.com/lmd808/bamazon) 
 
 ## Technologies 
 javascript, node.js, inquirer npm package, mysql npm package,
