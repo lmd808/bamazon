@@ -15,6 +15,8 @@ Manager will be able to see all products (done), add inventory(done), view low s
 * [Javascript](https://www.javascript.com/) - The scripting language used to manipulate the DOM. 
 * [Node](https://nodejs.org/en) - Javascript run-time environment (used to execute server side code.)
 * [SQL](https://developer.mozilla.org/en-US/docs/Glossary/SQL) - SQL is a standard language for storing, manipulating and retrieving data in databases.
+* [Inquirer.js](https://www.npmjs.com/package/inquirer) - A collection of common interactive command line user interfaces.
+* [Cli-Table3](https://www.npmjs.com/package/cli-table3) - This utility allows you to render unicode-aided tables on the command line from your node.js scripts.
 
 # Structure
 
